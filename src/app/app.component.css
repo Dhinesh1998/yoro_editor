@@ -1,0 +1,18 @@
+.header_container{
+  height: 40px;
+  width: 100%;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  place-content: center;
+  align-items: center;
+}
+
+.editor_container{
+  height: 200px;
+  width: 100%;
+}
+
+.editable_content{
+  border: none;
+}
